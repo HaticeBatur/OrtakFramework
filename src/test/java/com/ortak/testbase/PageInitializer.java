@@ -26,6 +26,9 @@ public class PageInitializer extends BaseClass{
 		System.out.println("basar change3");
 		System.out.println("basar change");
 		System.out.println("basar change");
+		System.out.println("basar change");
+		System.out.println("basar change");
+		System.out.println("basar change");
 
 	}
 
