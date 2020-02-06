@@ -24,6 +24,7 @@ public class PageInitializer extends BaseClass{
 	public void print() {
 		System.out.println("Print smt");
 		System.out.println("Hatice change");
+		System.out.println("Hatice change");
 	}
 
 }
