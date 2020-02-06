@@ -31,5 +31,8 @@ public class PageInitializer extends BaseClass{
 	public void display() {
 		System.out.println("From branch hatice");
 	}
-
+	public void display1() {
+		System.out.println("Hatice change 2");
+	}
+	
 }
