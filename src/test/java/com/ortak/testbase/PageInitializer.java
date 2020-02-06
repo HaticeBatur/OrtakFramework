@@ -21,5 +21,5 @@ public class PageInitializer extends BaseClass{
 		report=new ReportsPageElements();
 	}
 	
-	//public 
+	
 }
