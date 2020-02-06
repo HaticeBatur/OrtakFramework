@@ -20,4 +20,6 @@ public class PageInitializer extends BaseClass{
 		pdetails=new PersonalDetailsPageElements();
 		report=new ReportsPageElements();
 	}
+	
+	//public 
 }
