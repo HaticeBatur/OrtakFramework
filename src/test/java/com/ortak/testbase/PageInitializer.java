@@ -21,7 +21,11 @@ public class PageInitializer extends BaseClass{
 		report=new ReportsPageElements();
 	}
 	
+<<<<<<< HEAD
 	public void print() {
 		System.out.println("Print smt");
 	}
+=======
+	
+>>>>>>> 6fc9ef73f645c148ef68098d5bbcf0704f77ea36
 }
